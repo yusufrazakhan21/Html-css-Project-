@@ -1,0 +1,66 @@
+/*navbar css*/
+.meet-us-button{
+    background-color:blue;
+    color:white;
+}
+
+
+
+
+
+
+
+
+
+/* image section*/
+
+.text1{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform:translate(-50%, -50%);
+    color: white;
+    font-size: 18px;
+}
+.text2{
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform:translate(-50%, -50%);
+    color: white;
+    font-size: 30px;
+
+}
+.meet-1{
+    position: absolute;
+    top: 70%;
+    left: 45%;
+    color: white;
+    background-color: blue;
+}
+ 
+/* conainer 2 */
+
+
+
+
+
+/* section 3 iamge overlay*/
+.image-container{
+    position: relative;
+
+}
+
+.overlay{
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 9;
+}
+
+.text-overlay {
+    position: absolute;
+    top: 20px;
+    left: 50px;
+    color: burlywood;
+}
